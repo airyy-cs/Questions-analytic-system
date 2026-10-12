@@ -1,13 +1,13 @@
-# Problem Statement
+# Requirements
 
-## Who is affected?
-[Users, stakeholders, or businesses]
+## Functional requirements (what the system must DO)
+1. The system shall ...
+2. The system shall ...
+3. The system shall ...
+4. The system shall ...
+5. The system shall ...
 
-## What exactly is going wrong?
-[The friction, error, or inefficiency]
-
-## Why does it matter?
-[The impact or cost of the problem]
-
-## Problem statement (3 to 5 sentences)
-[Combine your three answers above into one short paragraph.]
+## Non-functional requirements (how the system must PERFORM)
+1. The system shall ... (include a number, for example "within 2 seconds")
+2. The system shall ...
+3. The system shall ...
